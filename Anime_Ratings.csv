@@ -1,0 +1,65 @@
+Title,Release Year,Episodes,Genre,Story,Character Development,Art,World Building,Emotion,Music,Cumulative Rating,Personal Rating,Movie,Demographic
+Attack on Titan,2013,94,"Action,Dark Fantasy",10,10,8,10,10,9,9.50,#9.9,FALSE,seinen
+A Silent Voice,2017,1,"Romance,Realism",10,10,9,9,10,10,9.67,#9.9,TRUE,shonen
+Made in Abyss,2017,26,"Adventure,Dark Fantasy",9,10,9,10,10,10,9.67,#9.7,FALSE,seinen
+Love is War,2019,37,"Comedy,Slice of life",8,8,9,9,9,8,8.50,#9.5,FALSE,shonen
+Death Note,2006,37,"Drama,Realism",10,10,,8,9,8,7.50,#9.5,FALSE,seinen
+Full Metal Alchemist: Brotherhood,2009,64,"Action,Dark Fantasy",10,10,8,10,9,8,9.17,#9.7,FALSE,shonen
+Avatar: The Last Airbender,2005,61,"Adventure,Fantasy",9,10,8,10,8,8,8.83,#9.6,FALSE,shonen
+Princess Mononoke,1999,1,"Drama,Fantasy",9,10,8,10,8,8,8.83,#9.4,TRUE,seinen
+Naruto,2005,720,"Action,Fantasy",,8,8,9,8,8,6.83,#8.6,FALSE,shonen
+Mushoku Tensei,2022,48,"Adventure,Isekai",9,10,9,8,10,,7.67,#9.6,FALSE,seinen
+Suzume,2023,1,"Adventure,Realism",8,8,10,9,9,10,9.00,#9.4,TRUE,shonen
+Your Name,2017,1,"Drama,Realism",7,9,9,9,8,8,8.33,#9.3,TRUE,shonen
+Cyberpunk Edgerunners,2022,10,"Action,Science Fiction",9,9,9,8,9,8,8.67,#9.3,FALSE,seinen
+Frieren: Beyond Journey's End,2023,28,"Drama,Fantasy",9,9,9,9,9,9,9.00,#9.4,FALSE,shonen
+Haikyu,2014,87,"Sport,Slice of life",9,8,8,8,8,,6.83,#9,FALSE,shonen
+Dandadan,2024,12,"Drama,Urban Fantasy",7,8,8,8,9,8,8.00,#8.8,FALSE,shonen
+Your Lie In April,2014,22,"Drama,Realism",8,9,9,7,9,9,8.50,#8.9,FALSE,shoujo
+Steins Gate,2011,24,"Drama,Science Fiction",8,9,6,,8,8,6.50,#8.8,FALSE,seinen
+Violet Evergarden,2018,13,"Drama,Realism",7,9,9,7,9,8,8.17,#8.7,FALSE,shoujo
+Gurren Lagann,2007,27,"Action,Science Fiction",6,9,7,,8,8,6.33,#8.6,FALSE,shonen
+Re:Zero,2016,66,"Adventure,Isekai",7,,8,8,9,7,6.50,#8.4,FALSE,shonen
+Jujutsu Kaisen,2020,47,"Action,Dark Fantasy",,8,9,7,8,,5.33,#8.4,FALSE,shonen
+Chainsaw Man,2022,12,"Action,Dark Fantasy",8,8,8,6,8,,6.33,#8.3,FALSE,seinen
+Solo Leveling,2024,25,"Action,Urban Fantasy",6,8,9,7,8,7,7.50,#8.2,FALSE,shonen
+86,2021,23,"Action,Urban Fantasy",7,8,8,8,8,7,7.67,#8.3,FALSE,seinen
+Hunter x Hunter,2011,148,"Action,Urban Fantasy",8,9,,8,7,7,6.50,#7.8,FALSE,shonen
+Vinland Saga,2019,48,"Drama,Realism",9,9,8,8,8,7,8.17,#7.9,FALSE,seinen
+Vivy,2021,14,"Action,Science Fiction",8,9,9,8,,9,7.17,#7.9,FALSE,shonen
+Kaiju No.8,2024,12,"Action,Science Fiction",6,7,7,,8,7,5.83,#7.8,FALSE,shonen
+Demon Slayer,2019,63,"Action,Fantasy",7,6,10,5,7,9,7.33,#7.4,FALSE,shonen
+Spy Family,2022,37,"Comedy,Slice of life",8,8,7,6,8,7,7.33,#7.6,FALSE,shonen
+Tokyo Ghoul,2014,48,"Action,Dark Fantasy",7,9,,6,7,,4.83,#7.2,FALSE,seinen
+Fate,2004,37,"Action,Urban Fantasy",7,7,10,6,,7,6.17,#7.3,FALSE,shonen
+Spirited Away,2002,1,"Drama,Fantasy",,8,7,8,7,7,6.17,#7.4,TRUE,shonen
+Castlevania,2017,32,"Action,Dark Fantasy",7,6,6,7,,6,5.33,#7.2,FALSE,seinen
+Hell's Paradise,2023,13,"Adventure,Dark Fantasy",7,8,7,6,7,7,7.00,#7.5,FALSE,shonen
+Kill la Kill,2015,24,"Comedy,Science Fiction",8,,7,6,8,9,6.33,#7.6,FALSE,shonen
+Mob Psycho 100,2016,37,"Comedy,Urban Fantasy",7,8,6,7,8,7,7.17,#7.4,FALSE,shonen
+Weathering with You,2020,1,"Drama,Realism",7,8,8,6,7,7,7.17,#7.2,TRUE,shonen
+Code Geass,2006,50,"Adventure,Science Fiction",8,8,6,8,7,7,7.33,#7.4,FALSE,shonen
+Darling in the Franxx,2019,24,"Romance,Science Fiction",7,8,,6,8,8,6.17,#7.3,FALSE,shonen
+One Punch Man,2015,34,"Comedy,Urban Fantasy",6,7,7,7,8,7,7.00,#7.3,FALSE,shonen
+Wistoria: Wand and Sword,2024,12,"Action,Fantasy",6,7,,6,7,7,5.50,#6.7,FALSE,shonen
+Cowbow Bebop,2001,26,"Adventure,Science Fiction",7,8,5,6,7,7,6.67,#7.3,FALSE,seinen
+Dragon Ball Z,1989,804,"Action,Science Fiction",5,6,6,,6,7,5.00,#6.6,FALSE,shonen
+Black Clover,2017,170,"Action,Fantasy",8,8,7,8,6,,6.17,#6.8,FALSE,shonen
+Evangelion,1995,26,"Drama,Science Fiction",5,7,5,6,8,6,6.17,#7.2,FALSE,seinen
+Tower of God,2020,39,"Adventure,Dark Fantasy",6,6,7,6,8,7,6.67,#6.4,FALSE,shonen
+Bleach,2006,366,"Action,Urban Fantasy",8,6,,6,6,7,5.50,#6.6,FALSE,shonen
+Toradora,2008,25,"Romance,Slice of life",6,7,7,,8,7,5.83,#6.2,FALSE,shoujo
+Horimiya,2021,25,"Romance,Slice of life",6,,7,8,7,7,5.83,#6.3,FALSE,shoujo
+Sword Art Online,2012,118,"Action,Science Fiction",6,7,7,6,,7,5.50,#6,FALSE,shonen
+Bungo Stray Dogs,2016,61,"Action,Urban Fantasy",7,,7,6,6,7,5.50,#5.8,FALSE,shonen
+My Hero Academia,2018,159,"Action,Urban Fantasy",5,6,,6,6,9,5.33,#5.5,FALSE,shonen
+Seven Deadly Sins,2015,100,"Action,Fantasy",5,5,6,5,6,8,5.83,#5.4,FALSE,shonen
+Mashle,2023,24,"Comedy,Fantasy",5,4,6,6,5,,4.33,#5.6,FALSE,shonen
+Legend of Korra,2012,52,"Action,Fantasy",5,6,,7,6,6,5.00,#5.2,FALSE,shoujo
+Akira,1988,1,"Adventure,Science Fiction",6,7,5,6,6,7,6.17,#5.8,TRUE,seinen
+Goblin Slayer,2018,24,"Action,Dark Fantasy",5,6,7,5,5,6,5.67,#4.8,FALSE,seinen
+Fairy Tail,2011,328,"Action,Fantasy",4,6,,5,5,8,4.67,#4.6,FALSE,shonen
+Akame ga Kill,2016,24,"Action,Fantasy",4,4,6,4,4,6,4.67,#4.3,FALSE,shonen
+Kingdom,2012,129,"Adventure,Realism",6,5,5,,5,6,4.50,#5.2,FALSE,shonen
+Dota: Dragon's Blood,2021,24,"Action,Fantasy",4,5,6,4,4,5,4.67,#4.1,FALSE,shonen
+The Melancholy of Haruhi Suzumiya,2006,28,"Drama,Urban Fantasy",3,4,6,3,4,5,4.17,#3.7,FALSE,shoujo
